@@ -2,6 +2,13 @@
 
 Probamos todos los frameworks y comprobamos los resultados - ANGULAR 16! 🥵
 
+# Resultados Angular 16 en máquina local, en incógnito, con Chrome Profiler
+* 1ms Loading
+* 74ms Scripting
+* 1ms Rendering
+* 1ms Painting
+* 35ms System
+
 # Angular16
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.

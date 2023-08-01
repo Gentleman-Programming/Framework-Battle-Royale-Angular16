@@ -1,3 +1,7 @@
+# Framework Battle Royale ! 
+
+Probamos todos los frameworks y comprobamos los resultados - ANGULAR 16! 🥵
+
 # Angular16
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
